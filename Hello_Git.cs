@@ -9,6 +9,7 @@ public class MySound : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello Git");
+        Debug.Log("Hello Git2");
     }
 
     // Update is called once per frame
