@@ -2,19 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="LCodeTest/EmptyClass.cs">
     <Files>
       <File FileName="LCodeTest/Program.cs" Line="1" Column="1" />
-      <File FileName="LCodeTest/EmptyClass.cs" Line="60" Column="41" />
+      <File FileName="LCodeTest/EmptyClass.cs" Line="3" Column="23" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="LCodeTest" expanded="True">
-            <Node name="LCodeTest" expanded="True">
-              <Node name="EmptyClass.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.LCodeTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
